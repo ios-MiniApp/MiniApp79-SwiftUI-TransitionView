@@ -11,6 +11,7 @@
 		8778846728A8829800FACE0C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8778846628A8829800FACE0C /* ContentView.swift */; };
 		8778846928A8829800FACE0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8778846828A8829800FACE0C /* Assets.xcassets */; };
 		8778846C28A8829800FACE0C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8778846B28A8829800FACE0C /* Preview Assets.xcassets */; };
+		8778847328A882FC00FACE0C /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8778847228A882FC00FACE0C /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8778846628A8829800FACE0C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8778846828A8829800FACE0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8778846B28A8829800FACE0C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8778847228A882FC00FACE0C /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				8778846628A8829800FACE0C /* ContentView.swift */,
 				8778846828A8829800FACE0C /* Assets.xcassets */,
 				8778846A28A8829800FACE0C /* Preview Content */,
+				8778847228A882FC00FACE0C /* SecondView.swift */,
 			);
 			path = "MiniApp79-SwiftUI-TransitionView";
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8778847328A882FC00FACE0C /* SecondView.swift in Sources */,
 				8778846728A8829800FACE0C /* ContentView.swift in Sources */,
 				8778846528A8829800FACE0C /* MiniApp79_SwiftUI_TransitionViewApp.swift in Sources */,
 			);
